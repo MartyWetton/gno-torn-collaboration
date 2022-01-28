@@ -1,0 +1,10 @@
+{
+  "snapshotBlockNumber": 13685625,
+  "governance": "0x5efda50f22d34F262c29268506C5Fa42cB56A1Ce",
+  "tokenAddresses": {
+    "torn": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C"
+  },
+  "whales": {
+    "torn": "0xF977814e90dA44bFA03b6295A0616a897441aceC"
+  }
+}
