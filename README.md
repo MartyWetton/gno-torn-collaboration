@@ -26,7 +26,7 @@ There is Tornado governance proposal for GNO/TORN collaboration.
 
 ## Deploy
 
-1. Check `config.json` for actual values.
+1. Check `proposal.sol` for actual hardcoded values.
 
 2. Run deploy:
 

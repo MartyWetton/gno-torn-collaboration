@@ -1,8 +1,9 @@
 .vscode
 .idea
-artifacts
-artifacts-ovm
+.github
 cache
-cache-ovm
-contracts/Verifier*.sol
-src/types
+artifacts
+build
+dist
+coverage
+coverage.json
